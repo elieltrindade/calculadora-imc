@@ -1,2 +1,1 @@
-# Calculadora IMC App
-
+# calculadora-imc
